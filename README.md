@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with: Drone development.
 
-- 💬 Ask me about everything
+- 💬 Ask me about everything.
 
 ### Languages and Tools:
 
