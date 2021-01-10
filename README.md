@@ -1,4 +1,4 @@
-<h3>Rafael Antunes</h3>
+<h1>Rafael Antunes</h1>
 
 Hello, my name is Rafael, I am 19 years old and welcome to my profile!
 <br><br>
