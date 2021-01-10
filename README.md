@@ -26,7 +26,6 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <br>
 
 ### Projects:
-<br>
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
 <br>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
@@ -48,7 +47,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <a href="https://www.linkedin.com/in/rafael-antunes-785127197">
      <img align="left" alt="Linkedin" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
 </a>
-<br><br>
+<br>
 
 ### About
 
