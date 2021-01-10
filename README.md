@@ -52,3 +52,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 ### About
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+I have been interested in technology since I was a child, where one of my first experiences was creating a server in the game "Rust" (a long time ago), with this experience, the desire and curiosity to create something bigger just started!
+
+I’m currently learning: Java, JavaFX, UML, Spring Boot, JPA, Hibernate, MySQL and MongoDB.
