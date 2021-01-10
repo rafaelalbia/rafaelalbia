@@ -48,7 +48,9 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <a href="https://www.linkedin.com/in/rafael-antunes-785127197">
      <img align="left" alt="Linkedin" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
 </a>
+<br>
 
 ### About
+<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=starts,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
