@@ -32,3 +32,19 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
     
 ### Contact:
+
+<a href="mailto:rafaelma.albia@gmail.com">
+     <img align="left" alt="Gmail" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
+</a>
+
+<a href="mailto:rafaelalbia@outlook.com">
+     <img align="left" alt="Outlook" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftoutlook.svg" />
+</a>
+
+<a href="https://www.facebook.vom/profile.php?id-=100052457674641">
+     <img align="left" alt="Facebook" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/rafael-antunes-785127197">
+     <img align="left" alt="Linkedin" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+</a>
