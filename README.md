@@ -41,7 +41,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
      <img align="left" alt="Outlook" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftoutlook.svg" />
 </a>
 
-<a href="https://www.facebook.vom/profile.php?id-=100052457674641">
+<a href="https://www.facebook.com/profile.php?id-=100052457674641">
      <img align="left" alt="Facebook" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />
 </a>
 
