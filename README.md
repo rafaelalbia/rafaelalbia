@@ -26,11 +26,11 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <br>
 
 ### Projects:
-
+<br>
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
 <br>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
-    
+<br>
 ### Contact:
 
 <a href="mailto:rafaelma.albia@gmail.com">
