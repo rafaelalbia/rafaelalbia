@@ -51,4 +51,4 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 
 ### About
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=starts,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
