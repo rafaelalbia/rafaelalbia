@@ -1,4 +1,4 @@
-<h2>Rafael Antunes</h2> 👋
+<h3>Rafael Antunes</h3>
 
 Hello, my name is Rafael, I am 19 years old and welcome to my profile!
 <br><br>
@@ -12,7 +12,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 
 - 💬 Ask me about everything.
 
-### Skills:
+<h2>Skills</h2>
 
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
