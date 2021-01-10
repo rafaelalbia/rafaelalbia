@@ -4,14 +4,6 @@ Hello, my name is Rafael, I am 19 years old and welcome to my profile!
 <br><br>
 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development. I have already attended 2 Semesters in the Computer Science course.
 
-- 🌱 I’m currently learning: Java, JavaFX, UML, Spring Boot, JPA, Hibernate, MySQL and MongoDB.
-
-- 👯 I’m looking to collaborate on: Open source projects.
-
-- 🤔 I’m looking for help with: Drone development.
-
-- 💬 Ask me about everything.
-
 <h2>Skills</h2>
 
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
@@ -54,4 +46,6 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 
 I have been interested in technology since I was a child, where one of my first experiences was creating a server in the game "Rust" (a long time ago), with this experience, the desire and curiosity to create something bigger just started!
 
-I’m currently learning: Java, JavaFX, UML, Spring Boot, JPA, Hibernate, MySQL and MongoDB.
+I’m currently learning: UML, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Drone and Mobile development.
+
+I am interested in participating in projects, feel free to contact me!
