@@ -6,7 +6,7 @@ Hello, my name is Rafael, I am 19 years old and welcome to my profile!
 <br><br>
 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development. I have already attended 2 Semesters in the Computer Science course.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Skills</h2>
 
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
