@@ -17,7 +17,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 <br>
 
 <h2>Projects</h2>
