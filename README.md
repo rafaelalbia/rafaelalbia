@@ -19,8 +19,8 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="WordPress" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/github.svg" />
-<img align="left" alt="GitLab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/gitlab.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
+<img align="left" alt="GitLab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab.svg" />
 <img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
 <br>
 
