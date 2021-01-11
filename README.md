@@ -22,8 +22,6 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <br>
 
 <h2>Projects</h2>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rafaelalbia&repo=snake_game)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rafaelalbia&repo=java_calculator)]
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
 <br>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
