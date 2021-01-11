@@ -46,7 +46,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 
 <h2>About</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 I have been interested in technology since I was a child, where one of my first experiences was creating a server in the game "Rust" (a long time ago), with this experience, the desire and curiosity to create something bigger just started!
 
