@@ -9,19 +9,19 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Skills</h2>
 
-<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Linux" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="WordPress" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitLab" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" />
-<img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Linux" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="WordPress" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 <br>
 
 <h2>Projects</h2>
