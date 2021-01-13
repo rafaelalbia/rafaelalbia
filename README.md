@@ -11,6 +11,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 
 <img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Excel" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftexcel.svg" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitLab" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" />
