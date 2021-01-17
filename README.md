@@ -55,5 +55,3 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 I’m currently learning: UML, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Drone and Mobile development.
 
 I am interested in participating in projects, feel free to contact me!
-
-asdsasadasdasdasdasdasdasdsadasdasdasfsafas
