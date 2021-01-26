@@ -22,6 +22,8 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="WordPress" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 
+<br>
+
 <h3>DevOps</h3>
 
 <img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
