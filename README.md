@@ -7,7 +7,9 @@ Hello, my name is Rafael, I am 19 years old and welcome to my profile!
 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development. I have already attended 2 Semesters in the Computer Science course.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<h2>Skills</h2>
+<h2>My Development Stack</h2>
+
+<h3>Application and Data</h3>
 
 <img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
