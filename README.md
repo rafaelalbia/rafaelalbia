@@ -2,7 +2,7 @@
 
 <h1>Rafael Antunes</h1>
 
-Hello, my name is Rafael, I am 19 years old and welcome to my profile!
+Hello, my name is Rafael, welcome to my profile!
 <br><br>
 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development. I have already attended 2 Semesters in the Computer Science course.
 
