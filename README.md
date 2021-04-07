@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif">
+<img style='display: flex;' src="https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif">
 
 <h1>Rafael Antunes</h1>
 
