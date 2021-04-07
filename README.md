@@ -1,6 +1,5 @@
-<div style="align-items: center;">
-  <img style="width: 100%;" src="https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif">
-</div>
+<img style="width: 100%;" src="https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif">
+
 <h1>Rafael Antunes</h1>
 
 Hello, my name is Rafael and welcome to my profile!
