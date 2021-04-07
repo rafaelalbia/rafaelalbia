@@ -1,4 +1,4 @@
-<div style="">
+<div style="align-items: center;">
   <img style="width: 100%;" src="https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif">
 </div>
 <h1>Rafael Antunes</h1>
