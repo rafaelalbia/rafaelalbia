@@ -1,5 +1,5 @@
 <h1>Hello!!! 👋 
-<h1>My name is Rafael and welcome to my profile!</h1>
+My name is Rafael and welcome to my profile!</h1>
 
 <br><br>
 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development. I have already attended 2 Semesters in the Computer Science course.
