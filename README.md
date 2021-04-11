@@ -31,12 +31,12 @@
 
 <br>
 
-<h2>Projects</h2>
+<h2>🤖 Projects</h2>
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
 <br>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
 
-<h2>Contact</h2>
+<h2>🤙 Contact</h2>
 <a href="mailto:rafaelma.albia@gmail.com">
      <img align="left" alt="Gmail" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
 </a>
@@ -54,7 +54,7 @@
 </a>
 <br>
 
-<h2>About</h2>
+<h2>🕵️‍♂️ About</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
