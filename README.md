@@ -5,7 +5,7 @@ I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>
 <br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<h2>My Development Stack</h2>
+<h2>My Development Stack 👨‍💻</h2>
 
 <h4>Application and Data</h4>
 
