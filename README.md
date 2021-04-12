@@ -5,9 +5,9 @@
 <br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<h2>👨‍💻 Knowledge</h2>
+## 👨‍💻 Knowledge
 
-<h4>📀 Application and Data</h4>
+### 📀 Application and Data
 
 <img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Excel" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftexcel.svg" />
