@@ -2,7 +2,7 @@
 😁 My name is Rafael and welcome to my profile!
 <br><br>
 📚 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development.
-<br><br>
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## 👨‍💻 Knowledge
@@ -31,12 +31,12 @@
 
 <br>
 
-<h2>🤖 Projects</h2>
+## 🤖 Projects
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
 <br>
 <a href="https://github.com/rafaelalbia/java_calculator">Java Calculator</a>
 
-<h2>🤙 Contact</h2>
+## 🤙 Contact
 <a href="mailto:rafaelma.albia@gmail.com">
      <img align="left" alt="Gmail" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
 </a>
@@ -54,7 +54,7 @@
 </a>
 <br>
 
-<h2>🕵️‍♂️ About</h2>
+## 🕵️‍♂️ About
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
