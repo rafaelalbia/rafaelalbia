@@ -7,7 +7,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## 👨‍💻 Knowledge
 
-### 📀 Application and Data
+#### 📀 Application and Data
 
 <img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Excel" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftexcel.svg" />
@@ -22,7 +22,7 @@
 
 <br>
 
-<h4>🔑 DevOps</h4>
+#### 🔑 DevOps
 
 <img align="left" alt="CodeShip" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeship.svg" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
