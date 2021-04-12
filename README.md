@@ -29,7 +29,7 @@
 <img align="left" alt="GitHub" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitLab" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" />
 
-<br>
+<br><br>
 
 ## 🤖 Projects
 <a href="https://github.com/rafaelalbia/snake_game">Snake Game</a>
