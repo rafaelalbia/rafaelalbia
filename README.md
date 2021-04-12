@@ -7,7 +7,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## 👨‍💻 Knowledge
 
-#### Languages https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+<h3>Languages</h3> 
 
 #### Mobile / Front-end
 
