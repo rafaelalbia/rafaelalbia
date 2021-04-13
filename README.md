@@ -1,11 +1,11 @@
-# 👋 Hello!!!
+<h1>👋 Hello!!!</h1>
 😁 My name is Rafael and welcome to my profile!
 <br><br>
 📚 I am currently graduating from <a href="https://fael.edu.br/">Faculdade FAEL</a>, in the course of Analysis and Systems Development.
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelalbia&hide=stars,issues,contribs&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-## 👨‍💻 Knowledge
+<h2>👨‍💻 Knowledge</h2>
 
 <h4>Languages</h4> <img align="left" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
