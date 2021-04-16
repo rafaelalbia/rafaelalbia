@@ -40,6 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-I’m currently learning: UML, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Drone and Mobile development.
+🌱 I’m currently learning: UML, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Drone and Mobile development.
 
-Feel free to contact me!
+📍 Feel free to contact me!
